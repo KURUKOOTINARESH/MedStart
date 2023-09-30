@@ -1,0 +1,11 @@
+.home-page{
+    padding: 3rem 4rem;
+}
+.cards-con{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.hospital-card :hover{
+    cursor: pointer;
+}
